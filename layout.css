@@ -3,14 +3,6 @@
     color: Black;
 }
 
-#container{
-    position: absolute;
-    width:100%;
-    height: 100%;
-    overflow:hidden;
-    border-style: solid;
-}
-
 .col.s6{
     text-align: center;
 }
@@ -19,7 +11,11 @@
     border-style: solid;
 }
 
-.comicLayout{
+.ilike-blue-container{
+    @extend .blue, .lighten-4;
+}
+
+.henryLayout{
     height: 
     width: 50%;
     max-width: 600px;
