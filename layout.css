@@ -12,10 +12,12 @@
 }
 
 .col.s6{
-    background-color: pink;
     text-align: center;
 }
 
+.row{
+    border-style: solid;
+}
 
 .comicLayout{
     height: 
