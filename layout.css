@@ -3,7 +3,7 @@
 }
 
 .border1 {
-    border: 1px dashed lightgray;
+    border: 1px dashed white;
 }
 
 .border2 {
@@ -17,6 +17,7 @@
 .border4 {
     border: 1px dashed black;
 }
-.border5{
-    border:2px solid black;
+
+.border5 {
+    border: 2px solid black;
 }
