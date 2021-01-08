@@ -1,3 +1,19 @@
-.border{
-    border: 1px solid black;
+.border {
+    border: 3px solid black;
+}
+
+.border1 {
+    border: 1px dashed lightgray;
+}
+
+.border2 {
+    border: 1px dashed darkgray;
+}
+
+.border3 {
+    border: 1px dashed gray;
+}
+
+.border4 {
+    border: 1px dashed black;
 }
