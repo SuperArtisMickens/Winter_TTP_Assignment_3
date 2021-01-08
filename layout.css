@@ -21,3 +21,9 @@
 .border5 {
     border: 2px solid black;
 }
+
+.deon img {
+    border: 5px solid #333;
+    margin: 0.2rem;
+    width: 300px;
+}
